@@ -46,7 +46,7 @@ Cada estudiante debe agregar su nombre y el enlace de sus repositorios.
 | 33 | VILCHEZ SOTOMAYOR, LUIS JAVIER |
 | 34 | VILLARREYES MARCHAN, MARIA ISABEL |
 | 35 | YAMUNAQUE MONTALBAN, MARCO GUSTAVO |
-| 36 | ZAPATA YARLEQUE, ALVARO FABRIZIO |
+| 36 | ZAPATA YARLEQUE, ALVARO FABRIZIO | PRESENTE
 
 
 ## Criterios de seguimiento
